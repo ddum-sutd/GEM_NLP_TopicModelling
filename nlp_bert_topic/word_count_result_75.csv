@@ -1,0 +1,11 @@
+result
+Africa
+"[('home', 1.4), ('food', 1.29), ('trade', 1.22), ('retail', 1.04), ('base', 0.96), ('salon', 0.94), ('restaurant', 0.8)]"
+Asia & Oceania
+"[('food', 2.8), ('household', 2.38), ('beverage', 1.95), ('retail', 1.83), ('trade', 1.58), ('sari', 1.54), ('car', 1.01)]"
+Europe
+"[('construction', 1.67), ('production', 1.33), ('food', 1.21), ('trade', 1.14), ('agriculture', 1.1), ('industry', 0.86), ('repair', 0.84)]"
+North America
+"[('food', 5.46), ('clothing', 1.66), ('beauty', 1.58), ('grocery', 1.36), ('salon', 1.29), ('repair', 1.16), ('car', 0.87)]"
+Latin America & Caribbean
+"[('food', 4.26), ('clothes', 3.54), ('agriculture', 2.1), ('construction', 2.08), ('restaurant', 2.05), ('transport', 2.03), ('car', 1.93)]"

@@ -1,0 +1,9 @@
+,Topic,Count,topic_names,topics
+0,-1,334,"['the', 'of', 'that', 'to', 'and', 'in', 'is', 'you']",0
+1,0,316,"['in', 'the', 'was', 'in the', 'but', 'and', 'to', 'that']",1
+2,1,97,"['', '', '', '', '', '', '', '']",2
+3,2,29,"['you', 'they', 'for', 'me', 'and', 'my', 'if', 'can']",3
+4,3,25,"['and', 'for', 'on', 'to', 'will', 'of', 'be', 'your']",4
+5,4,16,"['me', 'are', 'for', 'or', 'have', 'with', 'by', 'if']",5
+6,5,16,"['for', 'very', 'it', 'with', 'to', 'in', 'you', 'and']",6
+7,6,16,"['but', 'can', 'some', 'for', 'this', 'you', 'in', 'to']",7

@@ -1,36 +1,36 @@
 ,0,1,2,3,4,5,region
-0,breeding,retail,canteen,maize,food,salon,Africa
-1,chicken,shoe,restaurant,plantation,cater,hair,Africa
-2,poultry,grocery,bar,gardening,catering,beauty,Africa
-3,oxen,tuckshop,furniture,vegetable,fish,hairdresser,Africa
-4,goat,secondhand,cafe,produce,pastry,barber,Africa
-5,sheep,vendor,beer,market,fresh,manicure,Africa
-6,fatten,street,coffee,cassava,cook,treatment,Africa
-7,beverage,trade,agriculture,tailor,motorcycle,construction,Asia & Oceania
-8,food,household,vegetable,fashion,car,material,Asia & Oceania
-9,restaurant,retail,farmer,shoe,workshop,aluminum,Asia & Oceania
-10,coffee,city,cultivation,sewing,transport,weld,Asia & Oceania
-11,drink,province,rice,clothes,tire,manufacture,Asia & Oceania
-12,cater,nang,snack,lingerie,repair,build,Asia & Oceania
-13,travel,hcm,saler,clothing,auto,manufacturing,Asia & Oceania
-14,beauty,agriculture,consultancy,construction,restaurant,music,Europe
-15,salon,vegetable,care,interior,bar,photography,Europe
-16,hairdresser,livestock,management,engineering,cafee,entertainment,Europe
-17,clothing,fruit,estate,building,bakery,art,Europe
-18,textile,food,financial,house,cater,video,Europe
-19,craft,meat,real,paint,catering,graphic,Europe
-20,clothes,wine,consultant,renovation,cake,event,Europe
-21,food,clothing,salon,phone,paint,grocery,North America
-22,chicken,clothes,beauty,mobile,design,retail,North America
-23,restaurant,shoe,makeup,computer,workshop,basket,North America
-24,snack,secondhand,cosmetic,software,art,wholesale,North America
-25,cake,perfume,hair,technology,photography,online,North America
-26,bar,footwear,nail,hardware,graphic,merchandise,North America
-27,meat,tailor,barber,repair,blacksmith,catalog,North America
-28,construction,restaurant,clothes,manufacturing,agriculture,educational,Latin America & Caribbean
-29,car,bakery,clothing,craft,livestock,social,Latin America & Caribbean
-30,workshop,food,tailor,industrial,breeding,accounting,Latin America & Caribbean
-31,repair,pastry,sewing,handicraft,cattle,network,Latin America & Caribbean
-32,furniture,fruit,manufacture,craftmanship,production,publicity,Latin America & Caribbean
-33,maintenance,commercialization,woman,food,live,consultant,Latin America & Caribbean
-34,electrical,liquor,footwear,machinery,landscape,adult,Latin America & Caribbean
+0,food,breeding,cake,vegetable,clothing,repair,Africa
+1,retail,sheep,cereal,grow,clothes,transport,Africa
+2,beverage,poultry,millet,melon,textile,motorcycle,Africa
+3,grocery,goat,bakery,tuber,article,car,Africa
+4,restaurant,chicken,bean,root,leather,taxi,Africa
+5,tobacco,pig,maize,rice,footwear,motor,Africa
+6,non,ox,rice,agriculture,garment,shoe,Africa
+7,clothes,restaurant,beverage,agriculture,construction,car,Asia & Oceania
+8,tailor,cafee,food,fruit,furniture,motorcycle,Asia & Oceania
+9,grocery,restorant,coffee,vegetable,building,repair,Asia & Oceania
+10,clothing,province,perfume,fish,material,transportation,Asia & Oceania
+11,fashion,bakery,milk,farm,build,auto,Asia & Oceania
+12,retail,food,drink,flower,design,workshop,Asia & Oceania
+13,household,household,processing,chicken,decoration,spare,Asia & Oceania
+14,construction,domain,health,clothing,restaurant,software,Europe
+15,car,consultancy,training,beauty,food,web,Europe
+16,repair,legal,medical,salon,grocery,mobile,Europe
+17,building,entity,sport,clothes,coffee,computer,Europe
+18,transport,client,care,cosmetic,catering,information,Europe
+19,industry,financial,therapy,craft,cafee,technology,Europe
+20,manufacture,marketing,education,hairdresser,bakery,development,Europe
+21,food,restaurant,clothing,construction,vegetable,computer,North America
+22,beverage,food,shoe,craft,tortilla,phone,North America
+23,ice,bar,clothes,furniture,agriculture,mobile,North America
+24,tobacco,goods,jewelry,tailor,fruit,hardware,North America
+25,preparation,truck,footwear,sewing,chicken,internet,North America
+26,cream,bath,costume,home,farm,software,North America
+27,pastry,shoeshine,accessory,welding,corn,technology,North America
+28,restaurant,construction,clothes,advertising,agriculture,car,Latin America & Caribbean
+29,bakery,craft,clothing,consultancy,fruit,transport,Latin America & Caribbean
+30,fastfood,engineering,apparel,event,vegetable,transportation,Latin America & Caribbean
+31,food,mining,wear,accounting,cattle,workshop,Latin America & Caribbean
+32,drink,industrial,manufacture,internet,greengrocery,delivery,Latin America & Caribbean
+33,bar,build,shoe,marketing,livestock,motorcycle,Latin America & Caribbean
+34,distribution,mechanic,footwear,selling,fish,repair,Latin America & Caribbean

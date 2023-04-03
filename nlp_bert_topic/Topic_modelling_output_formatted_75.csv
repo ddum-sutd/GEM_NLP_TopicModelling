@@ -1,15 +1,36 @@
 ,0,1,2,3,4,5,region
-0,cosmetic,salon,grocery,convenience,stationery,food,North America
-1,beauty,beauty,basket,,school,dry,North America
-2,makeup,hair,store,,office,treat,North America
-3,health,nail,cart,,position,health,North America
-4,woman,barber,cola,,letter,,North America
-5,sense,makeup,ecommerce,,chavita,,North America
-6,seminar,spa,tea,,copy,,North America
-7,construction,restaurant,clothese,agriculture,health,transport,Latin America & Caribbean
-8,car,food,clothesing,fruit,educational,transportation,Latin America & Caribbean
-9,workshop,bakery,woman,yewerly,school,logistics,Latin America & Caribbean
-10,manufacturing,grocery,tailor,commercialization,psychological,freight,Latin America & Caribbean
-11,craft,pastry,sewing,wholesale,child,truck,Latin America & Caribbean
-12,maintenance,fastfood,footwear,street,drugstore,essential,Latin America & Caribbean
-13,manufacture,bar,man,sweet,adult,aggregate,Latin America & Caribbean
+0,breeding,retail,canteen,maize,food,salon,Africa
+1,chicken,shoe,restaurant,plantation,cater,hair,Africa
+2,poultry,grocery,bar,gardening,catering,beauty,Africa
+3,oxen,tuckshop,furniture,vegetable,fish,hairdresser,Africa
+4,goat,secondhand,cafe,produce,pastry,barber,Africa
+5,sheep,vendor,beer,market,fresh,manicure,Africa
+6,fatten,street,coffee,cassava,cook,treatment,Africa
+7,beverage,trade,agriculture,tailor,motorcycle,construction,Asia & Oceania
+8,food,household,vegetable,fashion,car,material,Asia & Oceania
+9,restaurant,retail,farmer,shoe,workshop,aluminum,Asia & Oceania
+10,coffee,city,cultivation,sewing,transport,weld,Asia & Oceania
+11,drink,province,rice,clothes,tire,manufacture,Asia & Oceania
+12,cater,nang,snack,lingerie,repair,build,Asia & Oceania
+13,travel,hcm,saler,clothing,auto,manufacturing,Asia & Oceania
+14,beauty,agriculture,consultancy,construction,restaurant,music,Europe
+15,salon,vegetable,care,interior,bar,photography,Europe
+16,hairdresser,livestock,management,engineering,cafee,entertainment,Europe
+17,clothing,fruit,estate,building,bakery,art,Europe
+18,textile,food,financial,house,cater,video,Europe
+19,craft,meat,real,paint,catering,graphic,Europe
+20,clothes,wine,consultant,renovation,cake,event,Europe
+21,food,clothing,salon,phone,paint,grocery,North America
+22,chicken,clothes,beauty,mobile,design,retail,North America
+23,restaurant,shoe,makeup,computer,workshop,basket,North America
+24,snack,secondhand,cosmetic,software,art,wholesale,North America
+25,cake,perfume,hair,technology,photography,online,North America
+26,bar,footwear,nail,hardware,graphic,merchandise,North America
+27,meat,tailor,barber,repair,blacksmith,catalog,North America
+28,construction,restaurant,clothes,manufacturing,agriculture,educational,Latin America & Caribbean
+29,car,bakery,clothing,craft,livestock,social,Latin America & Caribbean
+30,workshop,food,tailor,industrial,breeding,accounting,Latin America & Caribbean
+31,repair,pastry,sewing,handicraft,cattle,network,Latin America & Caribbean
+32,furniture,fruit,manufacture,craftmanship,production,publicity,Latin America & Caribbean
+33,maintenance,commercialization,woman,food,live,consultant,Latin America & Caribbean
+34,electrical,liquor,footwear,machinery,landscape,adult,Latin America & Caribbean

@@ -1,36 +1,36 @@
 ,0,1,2,3,4,5,region
-0,repair,vegetable,clothese,woman,sweet,local,Africa
-1,industry,millet,clothesing,offer,small,station,Africa
-2,building,garden,secondhand,deal,community,coffee,Africa
-3,window,tomato,boutique,plate,snack,drink,Africa
-4,provide,bean,individual,vendor,chip,provide,Africa
-5,supply,grow,woman,rent,airtime,airtime,Africa
-6,work,production,serowe,boutique,stock,softdrink,Africa
-7,repair,city,agriculture,clothese,restaurant,child,Asia & Oceania
-8,common,household trade,rice,secondhand,,student,Asia & Oceania
-9,material,household,dry,clothesing,,education,Asia & Oceania
-10,retail,trade,ice,tailor,,school,Asia & Oceania
-11,electronic,coffee,land,woman clothesing,,school student,Asia & Oceania
-12,common repair,nguyen,fruit,work,,teach,Asia & Oceania
-13,manufacture,nguyen city,farm,dress,,print,Asia & Oceania
-14,furniture,agriculture,child,pub,car,beauty,Europe
-15,food,vegetable,costumer,bar,tire,cosmetic,Europe
-16,care,garden,client,party,garage,treatment,Europe
-17,production,grow,client costumer,food,repair,include,Europe
-18,social,farmer,trade,run,vehicle,massage,Europe
-19,internet,inhabitant,trading,equipment,mechanic,health,Europe
-20,marketing,cultivation,animal,club,maintenance,type,Europe
-21,car,food,clothesing,food food,non,food food,North America
-22,repair,mexican,woman,food,health,food,North America
-23,computer,snack,child,,provide,,North America
-24,retail,home,clothese,,online,,North America
-25,equipment,construction,try,,natural,,North America
-26,cosmetic,health,provide,,client,,North America
-27,maintenance,retail,health,,relate,,North America
-28,food,manufacturing,clothese,agriculture,goods,car,Latin America & Caribbean
-29,production,manufacture,man,plant,woman,repair,Latin America & Caribbean
-30,delivery,food,,purchase,man,motorcycle,Latin America & Caribbean
-31,distribution,craft,,nursery,child,maintenance,Latin America & Caribbean
-32,organic,textile,,environmental,retail,spare,Latin America & Caribbean
-33,marketing,selling,,supply,body,rental,Latin America & Caribbean
-34,selling,clothesing,,management,personal,high,Latin America & Caribbean
+0,repair,restaurant,chicken,retail,salon,cassava,Africa
+1,car,bar,sheep,tuckshop,hair,tomato,Africa
+2,maintenance,cafe,poultry,street,hairdresser,bakery,Africa
+3,wash,pub,goat,vendor,beauty,plantation,Africa
+4,motorcycle,station,farm,grocery,manicure,bread,Africa
+5,cleaning,class,husbandry,sweet,hairdressing,onion,Africa
+6,mechanic,franchise,breeding,airtime,massage,corn,Africa
+7,restaurant,fashion,fish,car,child,aluminum,Asia & Oceania
+8,beverage,clothes,farmer,motorcycle,student,material,Asia & Oceania
+9,coffee,furniture,agriculture,tire,entertainment,door,Asia & Oceania
+10,food,sewing,cultivation,spare,education,window,Asia & Oceania
+11,drink,clothing,rice,motorbike,school,build,Asia & Oceania
+12,household,goods,saler,repair,sport,factory,Asia & Oceania
+13,city,sari,wheat,garage,kindergarten,construction,Asia & Oceania
+14,agriculture,furniture,construction,computer,restaurant,car,Europe
+15,food,craft,cleaning,software,cake,repair,Europe
+16,vegetable,metal,build,mobile,bakery,tire,Europe
+17,fruit,handicraft,house,marketing,catering,motorcycle,Europe
+18,garden,wood,flat,security,pastry,machinery,Europe
+19,production,manufacture,building,technology,cater,vehicle,Europe
+20,trade,production,work,web,cafeeteria,transportation,Europe
+21,food,beauty,clothing,grocery,repair,chicken,North America
+22,daycare,salon,clothes,restaurant,electrical,meat,North America
+23,healthcare,paint,secondhand,bar,appliance,fry,North America
+24,medicine,design,tailor,seafood,auto,fastfood,North America
+25,need,art,traditional,beer,mechanic,dog,North America
+26,health,makeup,designer,truck,automotive,meal,North America
+27,therapy,graphic,woman,cart,mechanical,hamburger,North America
+28,clothes,food,workshop,furniture,agriculture,health,Latin America & Caribbean
+29,tailor,pastry,manufacturing,home,,consultant,Latin America & Caribbean
+30,sewing,bakery,craft,maintenance,,psychological,Latin America & Caribbean
+31,clothing,icecream,car,construction,,adult,Latin America & Caribbean
+32,manufacture,delivery,handicraft,appliance,,activity,Latin America & Caribbean
+33,textile,restaurant,craftmanship,hardware,,management,Latin America & Caribbean
+34,garment,distribution,industrial,paint,,cabinet,Latin America & Caribbean

@@ -1,9 +1,9 @@
 ,Topic,Count,topic_names,topics
-0,0,153,"['restaurant', 'pastry', 'snack', 'cake', 'dinner', 'mexican', 'delivery', 'juice']",0
-1,-1,146,"['sport', 'health', 'school', 'equipment', 'care', 'office', 'therapy', 'event']",1
-2,1,145,"['automotive', 'repair', 'truck', 'auto', 'car', 'paint', 'spare', 'electronic']",2
-3,2,130,"['grocery', 'retail', 'agriculture', 'decoration', 'wholesale', 'selling', 'merchandise', 'woman']",3
-4,3,126,"['mobile', 'design', 'computer', 'art', 'technology', 'repair', 'accessory', 'graphic']",4
-5,4,113,"['food', '', '', '', '', '', '', '']",5
-6,5,112,"['shoe', 'clothese', 'secondhand', 'sign', 'try', 'clothesing', 'design', 'copy']",6
-7,6,88,"['salon', 'beauty', 'cosmetic', 'hair', 'nail', 'makeup', 'skin', 'placement']",7
+0,0,3469,"['the', 'of', 'to', 'and', 'that', 'in', 'is', 'it']",0
+1,-1,2382,"['the', 'he', 'game', 'in', 'to', 'and', 'was', 'that']",1
+2,1,700,"['the', 'to', 'is', 'windows', 'and', 'window', 'for', 'it']",2
+3,2,629,"['the', 'israel', 'of', 'to', 'in', 'and', 'that', 'is']",3
+4,3,290,"['', '', '', '', '', '', '', '']",4
+5,4,277,"['you', 'to', 'mail', 'address', 'the', 'this', 'edu', 'me']",5
+6,5,218,"['keyboard', 'monitor', 'the', 'it', 'to', 'you', 'and', 'with']",6
+7,6,189,"['that', 'is', 'you', 'to', 'are', 'of', 'the', 'moral']",7

@@ -1,8 +1,8 @@
 word,share,region,word,share,region,word,share,region,word,share,region,word,share,region
-trade,1.42,Africa,sari,1.87,Asia & Oceania,food,1.58,Europe,food,6.39,North America,food,5.42,Latin America & Caribbean
-home,1.25,Africa,household,1.77,Asia & Oceania,production,1.52,Europe,beauty,1.76,North America,clothes,4.91,Latin America & Caribbean
-retail,1.17,Africa,repair,1.57,Asia & Oceania,repair,1.36,Europe,repair,1.69,North America,agriculture,2.91,Latin America & Caribbean
-repair,1.03,Africa,car,1.27,Asia & Oceania,agriculture,1.28,Europe,salon,1.36,North America,stall,2.7,Latin America & Caribbean
-small,1.03,Africa,restaurant,1.06,Asia & Oceania,trade,1.26,Europe,clothing,1.25,North America,car,2.54,Latin America & Caribbean
-restaurant,0.97,Africa,food,1.06,Asia & Oceania,construction,1.16,Europe,car,1.1,North America,manufacturing,2.45,Latin America & Caribbean
-salon,0.94,Africa,retail,1.04,Asia & Oceania,car,0.97,Europe,convenience,0.92,North America,workshop,1.78,Latin America & Caribbean
+trade,1.42,Africa,sari,1.88,Asia & Oceania,food,1.58,Europe,food,6.41,North America,food,5.59,Latin America & Caribbean
+home,1.25,Africa,household,1.78,Asia & Oceania,production,1.52,Europe,beauty,1.77,North America,clothes,5.06,Latin America & Caribbean
+retail,1.17,Africa,repair,1.58,Asia & Oceania,repair,1.36,Europe,repair,1.69,North America,agriculture,3.0,Latin America & Caribbean
+clothes,1.06,Africa,car,1.27,Asia & Oceania,agriculture,1.28,Europe,salon,1.36,North America,car,2.61,Latin America & Caribbean
+repair,1.03,Africa,restaurant,1.06,Asia & Oceania,trade,1.26,Europe,clothing,1.25,North America,manufacturing,2.53,Latin America & Caribbean
+small,1.03,Africa,food,1.06,Asia & Oceania,construction,1.16,Europe,car,1.11,North America,workshop,1.83,Latin America & Caribbean
+restaurant,0.97,Africa,retail,1.05,Asia & Oceania,car,0.97,Europe,convenience,0.92,North America,health,1.78,Latin America & Caribbean

@@ -1,0 +1,8 @@
+word,share,region,word,share,region,word,share,region,word,share,region,word,share,region
+trade,2.77,Africa,food,1.99,Asia & Oceania,client,1.99,Europe,food,3.63,North America,food,2.41,Latin America & Caribbean
+food,1.89,Africa,household,1.66,Asia & Oceania,individual,1.78,Europe,clothing,1.15,North America,restaurant,1.9,Latin America & Caribbean
+retail,1.51,Africa,retail,1.56,Asia & Oceania,industry,1.73,Europe,repair,1.09,North America,clothes,1.73,Latin America & Caribbean
+local,1.2,Africa,local,1.25,Asia & Oceania,construction,1.44,Europe,retail,1.07,North America,construction,1.33,Latin America & Caribbean
+vegetable,1.14,Africa,industry,1.23,Asia & Oceania,trade,1.26,Europe,grocery,0.97,North America,grocery,1.19,Latin America & Caribbean
+grow,1.07,Africa,clothes,1.09,Asia & Oceania,production,1.17,Europe,beauty,0.94,North America,car,1.12,Latin America & Caribbean
+clothes,1.03,Africa,car,0.99,Asia & Oceania,food,0.92,Europe,home,0.89,North America,manufacture,1.0,Latin America & Caribbean

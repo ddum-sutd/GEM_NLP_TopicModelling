@@ -1,9 +1,0 @@
-,Topic,Count,topic_names,topics
-0,0,3175,"['the', 'of', 'to', 'and', 'is', 'that', 'in', 'it']",0
-1,-1,2676,"['the', 'he', 'game', 'in', 'to', 'and', 'year', 'that']",1
-2,1,506,"['00', '10', 'the', 'game', '20', '11', '15', 'in']",2
-3,2,491,"['the', 'of', 'and', 'in', 'to', 'were', 'they', 'was']",3
-4,3,466,"['why', '', '', '', '', '', '', '']",4
-5,4,279,"['car', 'the', 'it', 'cars', 'and', 'is', 'in', 'to']",5
-6,5,254,"['drive', 'scsi', 'ide', 'the', 'controller', 'drives', 'disk', 'is']",6
-7,6,245,"['card', 'monitor', 'the', 'video', 'it', 'vga', 'with', 'drivers']",7
